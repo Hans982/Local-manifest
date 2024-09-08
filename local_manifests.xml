@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <remote name="hans"
+          fetch="https://github.com/Hans982" />
+
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
+
+  <remote name="Arrow"
+          fetch="https://github.com/ArrowOS" />
+
+  <!-- Device Tree & Vendor Tree -->
+  <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans" revision="lineage-21" />
+  <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="hans" revision="14" />
+
+  <!-- Kernel & Clang -->
+  <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="hans" revision="14-r5p" />
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" />
+
+</manifest>
