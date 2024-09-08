@@ -11,6 +11,7 @@
           fetch="https://github.com/ProjectSakura" />
 
   <!-- Device Tree & Vendor Tree -->
+  <project path="vendor/sakura-priv" name="kutemeikito/vendor_lineage-priv" remote="github" revision="sakura" />
   <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans" revision="lineage-21" />
   <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="hans" revision="14" />
 
