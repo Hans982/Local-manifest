@@ -7,8 +7,8 @@
   <remote name="gitlab"
           fetch="https://gitlab.com/" />
 
-  <remote name="Arrow"
-          fetch="https://github.com/ArrowOS" />
+  <remote name="ProjectSakura"
+          fetch="https://github.com/ProjectSakura" />
 
   <!-- Device Tree & Vendor Tree -->
   <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans" revision="lineage-21" />
