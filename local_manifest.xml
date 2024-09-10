@@ -7,5 +7,5 @@
     <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="hans" revision="14" />
     <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="hans" revision="14-r5p" />
 
-    <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="clang-r450784d" revision="master" />
+    <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="kdrag0n" revision="master" />
 </manifest>
