@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="hans" fetch="https://github.com/Hans982" clone-depth="1" />
-    <remote name="clang-r450784d" fetch="https://gitlab.com/tejas101k/clang-r450784d" clone-depth="1" />
+    <remote name="clang-r450784d" fetch="https://gitlab.com/tejas101k/clang-r450784d.git" clone-depth="1" />
     
     <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans" revision="lineage-21" />
     <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="hans" revision="14" />
