@@ -4,7 +4,7 @@
     <remote name="kdrag0n" fetch="https://github.com/kdrag0n" clone-depth="1" />
     
     <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans" revision="15-infinity" />
-    <project path="vendor/realme/RMX1971_15" name="vendor_realme_RMX1971" remote="hans" revision="15" />
+    <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971_" remote="hans" revision="15" />
     <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="hans" revision="14-r5p" />
 
     <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="kdrag0n" revision="master" />
