@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="hans" fetch="https://github.com/Hans982" clone-depth="1" />
-    <remote name="kdrag0n" fetch="https://github.com/kdrag0n" clone-depth="1" />
     <remote name="Iverz" fetch="https://github.com/asterixiverz" />
     
-    <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans" revision="14-cr" />
-    <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="hans" revision="14" />
-    <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="hans" revision="14-r5p" />
-
-    <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="kdrag0n" revision="master" />
+    <project path="device/google/coral" name="android_device_google_coral" remote="hans" revision="lineage-22.2" />
+    <project path="device/google/gs-common" name="android_device_google_gs-common" remote="hans" revision="lineage-22.2" />
+    <project path="vendor/google/flame" name="proprietary_vendor_google_coral" remote="hans" revision="lineage-22.2" />
+    <project path="kernel/google/msm-4.14" name="android_kernel_google_msm-4.14" remote="hans" revision="lineage-22.2" />
 
     <!-- Private keys -->
     <project path="vendor/lineage-priv/keys" name="vendor_sign" remote="Iverz" revision="orion" />
