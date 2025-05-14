@@ -11,5 +11,5 @@
     <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="kdrag0n" revision="master" />
 
     <!-- Private keys -->
-    <project path="vendor/lineage-priv/keys" name="vendor_sign" remote="Iverz" revision="orion" />
+    <project path="vendor/lineage-priv/keys" name="vendor_sign" remote="Iverz" revision="lineage" />
 </manifest>
