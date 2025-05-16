@@ -10,7 +10,7 @@
     <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="hans" revision="14-r5p" />
 
     <!-- Fwb Los!!! -->
-    <project path=frameworks/base" name="android_frameworks_base" remote="LineageOS" revision="lineage-21.0" />
+    <project path="frameworks/base" name="android_frameworks_base" remote="LineageOS" revision="lineage-21.0" />
         
     <!-- ProtonClang! -->
     <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="kdrag0n" revision="master" />
