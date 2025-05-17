@@ -3,7 +3,6 @@
     <remote name="hans" fetch="https://github.com/Hans982" clone-depth="1" />
     <remote name="kdrag0n" fetch="https://github.com/kdrag0n" clone-depth="1" />
     <remote name="Iverz" fetch="https://github.com/asterixiverz" />
-    <remote name="hans" fetch="https://github.com/Hans982" />
     
     <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans" revision="14-cr" />
     <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971_" remote="hans" revision="14" />
