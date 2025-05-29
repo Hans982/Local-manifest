@@ -9,5 +9,5 @@
     <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="kdrag0n" revision="master" />
 
     <!-- Private keys -->
-    <project path="vendor/infinity-priv/keys" name="vendor_sign" remote="hans" revision="lineage" />
+    <project path="vendor/alpha-priv/keys" name="vendor_sign" remote="hans" revision="lineage" />
 </manifest>
